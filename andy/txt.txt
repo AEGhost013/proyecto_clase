@@ -1,0 +1,7 @@
+git pull -> descargar cambios
+// hacemos cambios
+git add . -> anadir todos los archivos al proximo commit
+
+git commit -m "mensaje" -> registran sus cambios con un nombre
+
+git push origin main -> subimos cambios a la rama principal
