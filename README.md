@@ -1,2 +1,1 @@
-HOLA :)
-wasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa    
+El readme es la cara del proyecto y se muestra a cualquier persona que visite el repo
