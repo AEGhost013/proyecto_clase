@@ -1,0 +1,33 @@
+## Estadísticas del Torneo
+
+A continuación, se presentan las estadísticas de un torneo ficticio con cuatro equipos, incluyendo los partidos ganados, empatados, perdidos y el puntaje total.
+
+### Resultados por Fechas
+
+**Fecha 1:**
+- Equipo A vs Equipo B: 2-1
+- Equipo C vs Equipo D: 1-1
+
+**Fecha 2:**
+- Equipo B vs Equipo C: 1-2
+- Equipo D vs Equipo A: 0-3
+
+**Fecha 3:**
+- Equipo A vs Equipo C: 1-0
+- Equipo D vs Equipo B: 2-2
+
+### Tabla de Clasificación
+
+| Posición | Equipo   | Partidos Ganados | Empatados | Perdidos | Puntaje |
+|----------|----------|------------------|-----------|----------|---------|
+| 1        | Equipo A | 2                | 1         | 0        | 7       |
+| 2        | Equipo C | 2                | 1         | 0        | 7       |
+| 3        | Equipo B | 0                | 2         | 1        | 2       |
+| 4        | Equipo D | 0                | 1         | 2        | 1       |
+
+### Detalles adicionales
+
+- **Criterios de Puntaje**: 
+  - **Partido Ganado**: 3 puntos
+  - **Partido Empatado**: 1 punto
+  - **Partido Perdido**: 0 puntos
