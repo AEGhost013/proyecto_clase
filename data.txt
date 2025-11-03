@@ -31,3 +31,33 @@ A continuación, se presentan las estadísticas de un torneo ficticio con cuatro
   - **Partido Ganado**: 3 puntos
   - **Partido Empatado**: 1 punto
   - **Partido Perdido**: 0 puntos
+
+## Noticias de los Partidos
+
+### Fecha 1
+
+**Equipo A vs Equipo B: 2-1**
+En un emocionante encuentro, el **Equipo A** se llevó la victoria tras una destacada actuación en casa. El delantero estrella del equipo, Juan Pérez, anotó un gol en el minuto 30, seguido por otro de Luis García en el minuto 75. El **Equipo B** logró descontar con un gol de cabeza de Carlos Martínez en el minuto 85, pero no fue suficiente para igualar el marcador.
+
+**Equipo C vs Equipo D: 1-1**
+El partido entre **Equipo C** y **Equipo D** finalizó en un empate. Ambos equipos mostraron buenas jugadas pero no lograron imponer su dominio. El **Equipo C** abrió el marcador con un gol de Andrés Torres a los 50 minutos, pero **Equipo D** respondió rápidamente con un gol de Diego López en el minuto 60. A pesar de las oportunidades, el marcador se mantuvo igualado.
+
+---
+
+### Fecha 2
+
+**Equipo B vs Equipo C: 1-2**
+En otro encuentro vibrante, el **Equipo C** continuó su racha ganadora con una victoria sobre el **Equipo B**. A pesar de que el **Equipo B** comenzó fuerte con un gol en el primer tiempo de Miguel Rivera, los visitantes se reagruparon y anotaron con dos goles de Nicolás Fernández, primero en el minuto 55 y luego en el 78, asegurando así los tres puntos.
+
+**Equipo D vs Equipo A: 0-3**
+El **Equipo A** logró una victoria convincente en su visita al **Equipo D**. Con un juego táctico bien ejecutado, el Equipo A dominó desde el inicio. Los goles de Héctor Salas en el minuto 20, un penalti ejecutado por José Sánchez en el 65 y un tercer gol en el 85 por parte de Alejandro Ruiz sellaron el partido.
+
+---
+
+### Fecha 3
+
+**Equipo A vs Equipo C: 1-0**
+El gran partido del día fue entre el **Equipo A** y el **Equipo C**, donde el **Equipo A** logró imponerse por la mínima. En un duelo muy reñido, la única anotación llegó a través de un espectacular tiro libre de Luis García en el minuto 70, lo que permitió a **Equipo A** mantener su lugar en la cima de la tabla.
+
+**Equipo D vs Equipo B: 2-2**
+En un emocionante partido final, **Equipo D** y **Equipo B** compartieron puntos. El **Equipo D** volvió a mostrar su capacidad, con goles de Rafael Gómez y Diego López. Sin embargo, el **Equipo B** luchó para empatar con goles de Carlos Martínez y Miguel Rivera, logrando llevar un punto crucial para sus aspiraciones en el torneo.
