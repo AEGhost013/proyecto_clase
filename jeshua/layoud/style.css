@@ -1,0 +1,17 @@
+table{
+    color:rgb(255, 255, 255);
+    width: 690px;
+    height: 30px;
+}
+
+body{
+    background-color: rgba(20, 19, 19, 0.836);
+}
+*{color: rgba(215, 240, 240, 0.829);
+text-align: center;
+    margin: auto;
+}
+title{
+    text-align: center;
+    margin: auto;
+}
